@@ -1,0 +1,7 @@
+#Fri Dec 02 00:06:11 CST 2016
+base.0=G\:\\ReactNative\\NewProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8afc254692b3041cd5ab5c38341a50dc15d2605a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\ReactNative\\NewProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed9eaa2a25f254998e70609ebec546525ea4197c\\classes.dex
+base.1=G\:\\ReactNative\\NewProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed9eaa2a25f254998e70609ebec546525ea4197c
+file.0=G\:\\ReactNative\\NewProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8afc254692b3041cd5ab5c38341a50dc15d2605a\\classes.dex
